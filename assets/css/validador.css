@@ -1,0 +1,13 @@
+.tem-erro {
+    color: #dc3545;
+}
+
+.erro-label {
+    font-size: 80%;
+}
+
+input.tem-erro,
+textarea.tem-erro,
+select.tem-erro {
+    border: 1px solid #dc3545!important;
+}
